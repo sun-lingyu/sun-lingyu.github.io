@@ -21,7 +21,7 @@ repository               : "sun-lingyu/sun-lingyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "正装照.png"
+  avatar           : "正装照.jpg"
   name             : "Lingyu Sun"
   pronouns         : # example: "she/her"  
   bio              : "Keep going"
