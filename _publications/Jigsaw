@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/Jigsaw
 excerpt: 'A paper on machine learning system optimziation'
-date: 2024
+date: 2024-12-10
 venue: 'the 45th IEEE Real-Time Systems Symposium'
 paperurl: 'https://github.com/academicpages/academicpages.github.io/tree/master/assets/Jigsaw'
 citation: 'Lingyu Sun, Chao Li, Xiaofeng Hou, Tianhao Huang, Cheng Xu, Xinkai Wang, Guangjun Bao, Bingchuan Sun, Shibo Rui, and Minyi Guo. “Jigsaw: Taming BEV-centric Perception on Dual-SoC for Autonomous Driving”. in Proceedings of the 45th IEEE Real-Time Systems Symposium (RTSS), Dec. 2024'
