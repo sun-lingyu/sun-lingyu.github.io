@@ -4,7 +4,7 @@ collection: publications
 category: journals
 permalink: /publication/A2
 excerpt: 'A paper on machine learning system optimziation'
-date: 2024
+date: 2024-07-25
 venue: 'ACM Transactions on Architecture and Code Optimization'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3688611'
 citation: 'Sun, L., Hou, X., Li, C., Liu, J., Wang, X., Chen, Q., & Guo, M. (2024). A2: Towards Accelerator Level Parallelism for Autonomous Micromobility Systems. ACM Transactions on Architecture and Code Optimization.'
