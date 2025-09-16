@@ -6,7 +6,7 @@ excerpt: 'Real-time perception is critical for autonomous driving, where a large
 date: 2024-12-10
 venue: '2024 IEEE Real-Time Systems Symposium (RTSS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10844764'
-citation: 'Sun L, Li C, Hou X, et al. Jigsaw: Taming bev-centric perception on dual-soc for autonomous driving[C]//2024 IEEE Real-Time Systems Symposium (RTSS). IEEE, 2024: 280-293.'
+citation: 'Lingyu Sun, Chao Li, Xiaofeng Hou, Tianhao Huang, Cheng Xu, Xinkai Wang, Guangjun Bao, Bingchuan Sun, Shibo Rui, and Minyi Guo. “Jigsaw: Taming BEV-centric Perception on Dual-SoC for Autonomous Driving”. in Proceedings of the 45th IEEE Real-Time Systems Symposium (RTSS), Dec. 2024'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
