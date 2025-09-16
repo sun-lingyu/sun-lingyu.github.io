@@ -1,8 +1,7 @@
 ---
 title: "A2: Towards Accelerator Level Parallelism for Autonomous Micromobility Systems"
 collection: publications
-category: journal
-permalink: https://dl.acm.org/doi/abs/10.1145/3688611
+category: manuscript
 excerpt: 'Autonomous micromobility systems (AMS) run multiple DNNs on heterogeneous accelerators, requiring dynamic tradeoffs between latency and efficiency. Accelerator heterogeneity and shared-memory bandwidth interference make holistic management challenging. We propose A2, a resource manager that optimizes energy and memory efficiency under variable latency constraints. A2 applies an Analyze&Adapt scheme: offline analysis with two-step online adaptation. On a commercial edge platform, A2 improves power by 32.8%, memory by 13.8%, and reduces deadline violations from 12.8% to 3.6% compared to prior methods.'
 date: 2024-07-25
 venue: 'ACM Transactions on Architecture and Code Optimization (TACO)'
