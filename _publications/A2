@@ -1,13 +1,13 @@
 ---
 title: "A2: Towards Accelerator Level Parallelism for Autonomous Micromobility Systems"
 collection: publications
-category: manuscripts
-permalink: /publication/A2
-excerpt: 'A paper on machine learning system optimziation'
+category: journal
+permalink: https://dl.acm.org/doi/abs/10.1145/3688611
+excerpt: 'Autonomous micromobility systems (AMS) run multiple DNNs on heterogeneous accelerators, requiring dynamic tradeoffs between latency and efficiency. Accelerator heterogeneity and shared-memory bandwidth interference make holistic management challenging. We propose A2, a resource manager that optimizes energy and memory efficiency under variable latency constraints. A2 applies an Analyze&Adapt scheme: offline analysis with two-step online adaptation. On a commercial edge platform, A2 improves power by 32.8%, memory by 13.8%, and reduces deadline violations from 12.8% to 3.6% compared to prior methods.'
 date: 2024-07-25
-venue: 'ACM Transactions on Architecture and Code Optimization'
+venue: 'ACM Transactions on Architecture and Code Optimization (TACO)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3688611'
-citation: 'Sun, L., Hou, X., Li, C., Liu, J., Wang, X., Chen, Q., & Guo, M. (2024). A2: Towards Accelerator Level Parallelism for Autonomous Micromobility Systems. ACM Transactions on Architecture and Code Optimization.'
+citation: 'Lingyu Sun, Xiaofeng Hou, Chao Li, Jiacheng Liu, Xinkai Wang, Quan Chen, and Minyi Guo. 2024. A2: Towards Accelerator Level Parallelism for Autonomous Micromobility Systems. ACM Trans. Archit. Code Optim. 21, 4, Article 86 (December 2024), 20 pages. https://doi.org/10.1145/3688611'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
