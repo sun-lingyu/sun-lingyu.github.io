@@ -3,7 +3,7 @@ title: "Characterizing and Understanding End-to-End Multi-Modal Neural Networks 
 collection: publications
 category: manuscripts
 excerpt: 'Multi-modal neural networks deliver superior accuracy by fusing modalities but introduce unique traits—multi-stage execution, frequent synchronization, and high heterogeneity—that remain underexplored in systems research. We characterize diverse multi-modal inference workloads and analyze their system and architectural implications, aiming to guide future software and hardware optimizations for efficient inference.'
-date: 2022-19-10
+date: 2022-10-19
 venue: 'IEEE Computer Architecture Letters ( Volume: 21, Issue: 2, 01 July-Dec. 2022)'
 paperurl: 'https://ieeexplore.ieee.org/document/9924614'
 citation: 'Xiaofeng Hou, Cheng Xu, Jiacheng Liu, Xuehan Tang, Lingyu Sun, Chao Li, Kwang-Ting Cheng. “Characterizing and Understanding End-to-End Multi-modal Neural Networks on GPUs”. IEEE Computer Architecture Letters (CAL), Vol 21, Issue 2, 2022'
